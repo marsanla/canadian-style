@@ -1,0 +1,9 @@
+{
+  "extends": "loopback",
+  "rules": {
+    "space-before-function-paren": 0,
+    "padded-blocks": 0,
+    "strict": 0,
+    "comma-dangle": 0
+  }
+}
